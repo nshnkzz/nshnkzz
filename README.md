@@ -5,6 +5,6 @@
 - 🤔 I’m looking for help with ....... I will see this 
 - 💬 Ask me about web , UI/UX or some related Tech stuffs
 - 😜 Confused about my usernames??? well, I love it
-- 📫 How to reach me: twitter : @nshnkzz
+- 📫 How to reach me: <a href="https://twitter.com/nshnkzz"> twitter,</a> <a href="https://www.instagram.com/its_shankzz/">insta &</a> nshnkzz@gmail.com
 - ⚡ Fun fact: I love GAMING
 <img src="https://github-readme-stats.vercel.app/api?username=nshnkzz&&show_icons=true&title_color=f0a500&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
